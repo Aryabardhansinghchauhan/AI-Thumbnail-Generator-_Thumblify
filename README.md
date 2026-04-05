@@ -1,55 +1,54 @@
-﻿# AI-Thumbnail-Generator-_Thumblify
+🚀 AI Thumbnail Generator - Thumblify
+An AI-powered web application that generates eye-catching and high-quality thumbnails for content creators.
+Thumblify helps you quickly create visually appealing thumbnails to boost engagement and click-through rates.
 
-An AI-powered web application that generates attractive and high-quality thumbnails for content creators. This project helps users quickly create visually appealing thumbnails using modern AI techniques, improving engagement and click-through rates.
+✨ Features
+🎨 AI-generated thumbnails
 
-📌 Features
-🎨 AI-based thumbnail generation
+⚡ Fast and responsive performance
 
-⚡ Fast and efficient processing
+🖼️ Clean and user-friendly UI
 
-🖼️ User-friendly interface
+🔧 Custom input support (text/images)
 
-🔧 Customizable inputs (text / images)
-
-📥 Download generated thumbnails
+📥 Easy download option
 
 🛠️ Tech Stack
 Frontend
-HTML
 
-CSS
-
-JavaScript
-
-(or React if used)
+HTML / CSS / JavaScript (or React)
 
 Backend
+
 Node.js / Express (or your backend tech)
 
-AI model / API integration
+AI API / Model integration
 
 ⚙️ Installation & Setup
-1️⃣ Clone the repository
+1. Clone the Repository
 git clone https://github.com/Aryabardhansinghchauhan/AI-Thumbnail-Generator-_Thumblify.git
 cd AI-Thumbnail-Generator-_Thumblify
-2️⃣ Install dependencies
-For backend
+2. Install Dependencies
+Backend
+
 cd backend
 npm install
-For frontend
+Frontend
+
 cd frontend
 npm install
-3️⃣ Run the project
-Start backend
+3. Run the Application
+Start Backend
+
 npm start
-Start frontend
+Start Frontend
+
 npm start
 🔗 Important Note
-⚠️ You must connect the frontend and backend properly for the application to work.
-Make sure:
+⚠️ Make sure to connect the frontend and backend properly before running the project.
 
-API endpoints are correctly configured
+Update API endpoints in frontend
 
-Backend server is running
+Ensure backend server is running
 
-Frontend is calling the correct backend URL
+Use correct base URL for API calls
